@@ -22,10 +22,12 @@ I am an experimental particle physicist at Northwestern University and Fermilab,
 | **Particle Transformer** | Particle-interaction-aware attention for jet tagging | [Paper](https://proceedings.mlr.press/v162/qu22b.html) · [Code](https://github.com/jet-universe/particle_transformer) |
 | **State-space models for collider events** | Efficient modeling of long, sparse particle sequences | [Paper](https://proceedings.mlr.press/v258/jiang25c.html) |
 | **Quantum models, made practical** | Quantum kernels and knowledge distillation for collider physics | [QNN study](https://arxiv.org/abs/2603.21586) · [CEPC application](https://arxiv.org/abs/2209.12788) |
+| **Lepton-collider physics** | Flavor, Majorana-neutrino, and vector-boson-scattering studies at future lepton colliders | [Publication record](https://scholar.google.com/citations?user=D7mhn64AAAAJ) |
 
 ## Open research tools
 
 - [**higgs-combine-tool**](https://github.com/DickyChant/combine_pypi) — an experimental route to a pip-installable CMS Combine v11.
+- [**Combine v11 on CERN SWAN**](https://dickychant.github.io/combine_swan_integration/) — a reproducible CMSSW 16 and Combine v11 setup for CERN SWAN.
 - [**jetutor**](https://github.com/DickyChant/jetutor) — matched JetClass editions for stress-testing taggers against generator choices.
 - [**nano.rust**](https://github.com/DickyChant/nano.rust) — a semantics-first, pure-Rust framework for CMS NanoAOD analysis.
 - [**DELPHI simulation pipeline**](https://github.com/delphi-fullDST-edm4hep/delphi-sim-pipeline) — a bridge from modern HepMC3 generators to DELPHI simulation and reconstruction.
